@@ -5,3 +5,5 @@ header("Access-control-Allow-Origin:*");
 $mydata = file_get_contents('https://media.taiwan.net.tw/XMLReleaseALL_public/hotel_C_f.json');
 echo $mydata;
 ?>
+<!-- 測試上傳1次 -->
+<!-- 測試上傳2次 -->
